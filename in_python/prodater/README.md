@@ -10,23 +10,19 @@
 <br><br>
 
 ## :page_facing_up: **Descrição do script**
-#
 Script desenvolvido para consulta simples e rápida da validade de produção a ser inserida na impressora dominó.<br><br>
 
 ## :clipboard: **Funcionalidades**
-#
 :heavy_check_mark: `Consulta manual:` Insere manualmente a data de fabricação.
 
 :heavy_check_mark: `Consulta automática:` A data atual é informada retornando a validade automaticamente.<br><br>
 
 ## :memo: **Aplicação**
-#
 O objetivo é auxiliar o repasse de produto ao ser inserido a data manual ou automática e descobrir sua validade.<br><br>
+:floppy_disk: [Clique aqui para baixar os arquivos.](prodater.zip)<br><br>
 
 ## :hammer_and_wrench: **Ferramenta utilizada**
-#
 <img src='../assets/img/python_logo.png' width='7%'><br><br>
 
 ## :man_technologist: **Desenvolvedor**
-#
 <p align='center'><a href='http://www.gihub.com/thejappa89/' target='_new'><img src='https://avatars.githubusercontent.com/u/97266986?v=4' width='25%' style='border-radius:50%'><br>Henrique Lima</p>
